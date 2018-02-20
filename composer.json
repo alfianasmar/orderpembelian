@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"classmap": [
+			"config.php"
+		    ],
+		"psr-4" : {
+			"Model\\" : "model/",
+			"Controller\\" : "controller/"			
+		}
+	},
+    "require": {
+        "nezamy/route": "^1.1"
+    }
+}

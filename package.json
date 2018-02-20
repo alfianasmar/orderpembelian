@@ -1,0 +1,23 @@
+{
+  "name": "OP-PDAM",
+  "version": "1.0.0",
+  "description": "Sistem Pencacatan Order Pembelian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlfianAsmar",
+  "license": "",
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.2",
+    "gulp-header": "^1.8.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
