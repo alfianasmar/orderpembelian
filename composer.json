@@ -9,6 +9,5 @@
 		}
 	},
     "require": {
-        "nezamy/route": "^1.1"
-    }
+	}
 }
